@@ -19,3 +19,8 @@
 - Webpack
 - CryptoJS
 - FabricJS
+
+# 다운로드
+
+Download Available on Chrome Web Store:
+https://chromewebstore.google.com/detail/%ED%8A%B8%EB%9E%9C%EC%A0%B8%EC%8A%A4/naoipcebckjeikfmlmponoajlkhdcnjc?hl=ko
